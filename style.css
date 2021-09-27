@@ -1,0 +1,70 @@
+.navbar-brand{
+    font-size: 2em !important;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white !important;
+    margin-left: 10px;
+    position: relative !important;
+}
+.navbar{
+
+    font-weight: bold;
+    background-color: teal !important;
+    width: 100% !important;
+    height:auto !important; 
+    margin-bottom: 5px !important;
+    z-index: 9999 !important;
+    position: fixed !important;
+    margin-bottom: 50px !important;
+   }
+.page-footer{
+    background-color:teal !important;
+    color: white !important;
+ 
+}
+a{
+    color: yellow !important;
+    
+}
+.whtsapp{
+    padding: 10px;
+    align-content: center;
+}
+.top{
+position: fixed;
+bottom: 20px;
+right: 20px;
+}
+.web{
+    font-size: 2em !important;
+}
+.nav-item{
+    font-size: 20px !important;
+    margin-right: 10px;
+    position: relative !important;
+}
+.poet{
+    background-color: teal;
+   color: white;
+   font-weight: bold;
+font-size: 3em;
+border-radius: 10px;
+text-justify: auto;
+width: 100%;
+}
+
+.card-text{
+text-align: justify !important;
+}
+.articles{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.art{
+    background-color: tomato;
+    color:white;
+    font-weight: bold;
+ font-size: 3em;
+ border-radius: 10px;
+ text-justify: auto;
+ width: 100%;
+ }
